@@ -1,0 +1,44 @@
+/* body {
+    background-image: url("Images/Printice1.png");
+    background-color: #cccccc;
+   } */
+
+section{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.25em;
+    color: #614051;
+    font-weight:500;
+    
+}
+.navbar{
+    color:  #614051;
+    
+}
+
+.navbar-brand{
+    color: #614051;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+} 
+
+
+h1{
+    margin: top 50px;
+    font-size: 1.85em;
+    color: #614051;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2{
+    font-size: 1.55em;
+    font-weight: lighter;
+    color:#614051;
+}
+
+p{
+    font-size: .75em;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
